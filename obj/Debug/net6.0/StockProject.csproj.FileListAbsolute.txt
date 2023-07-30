@@ -1,0 +1,15 @@
+C:\C#\StockProject\bin\Debug\net6.0\StockProject.exe
+C:\C#\StockProject\bin\Debug\net6.0\StockProject.deps.json
+C:\C#\StockProject\bin\Debug\net6.0\StockProject.runtimeconfig.json
+C:\C#\StockProject\bin\Debug\net6.0\StockProject.dll
+C:\C#\StockProject\bin\Debug\net6.0\StockProject.pdb
+C:\C#\StockProject\obj\Debug\net6.0\StockProject.csproj.AssemblyReference.cache
+C:\C#\StockProject\obj\Debug\net6.0\StockProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\StockProject\obj\Debug\net6.0\StockProject.AssemblyInfoInputs.cache
+C:\C#\StockProject\obj\Debug\net6.0\StockProject.AssemblyInfo.cs
+C:\C#\StockProject\obj\Debug\net6.0\StockProject.csproj.CoreCompileInputs.cache
+C:\C#\StockProject\obj\Debug\net6.0\StockProject.dll
+C:\C#\StockProject\obj\Debug\net6.0\refint\StockProject.dll
+C:\C#\StockProject\obj\Debug\net6.0\StockProject.pdb
+C:\C#\StockProject\obj\Debug\net6.0\StockProject.genruntimeconfig.cache
+C:\C#\StockProject\obj\Debug\net6.0\ref\StockProject.dll
